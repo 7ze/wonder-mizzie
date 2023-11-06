@@ -6,8 +6,9 @@ summary: "One of my favorite poems by Charles Bukowski"
 tags: ["poems"]
 ---
 
----
+{{< youtube id="Yhi6y1XWb-E" title="Bluebird" autoplay="true" >}}
 
+---
 
 _There's a bluebird in my heart that
 wants to get out
