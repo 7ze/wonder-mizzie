@@ -35,8 +35,8 @@ defaultBackgroundImage = "starry_night.png" # used as default for background ima
   showScrollToTop = true
 
 [homepage]
-  layout = "hero" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "wonderland.png" # used in: hero, and card
+  layout = "background" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "kiki.png" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
   showMoreLink = false
@@ -52,7 +52,7 @@ defaultBackgroundImage = "starry_night.png" # used as default for background ima
   showDateUpdated = false
   showAuthor = true
   showHero = true
-  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = false # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
@@ -75,7 +75,7 @@ defaultBackgroundImage = "starry_night.png" # used as default for background ima
 
 [list]
   showHero = true
-  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = false # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
@@ -95,7 +95,7 @@ defaultBackgroundImage = "starry_night.png" # used as default for background ima
 [taxonomy]
   showTermCount = true
   showHero = true
-  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false
@@ -104,7 +104,7 @@ defaultBackgroundImage = "starry_night.png" # used as default for background ima
 
 [term]
   showHero = true
-  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false
