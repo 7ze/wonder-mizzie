@@ -20,6 +20,11 @@
   pageRef = "poems"
   weight = 20
 
+[[main]]
+  name = "Artwork"
+  pageRef = "artwork"
+  weight = 30
+
 
 #[[main]]
 #  name = "Parent"
@@ -56,7 +61,7 @@
 [[main]]
   name = "Tags"
   pageRef = "tags"
-  weight = 30
+  weight = 40
 
 
 # -- Footer Menu --
